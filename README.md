@@ -1,2 +1,2 @@
 # springboot-postgresql-docker-crud
-CRUD Application using Spring Boot PostgreSQL
+Dockerize Spring Boot and PostgreSQL CRUD Application 
